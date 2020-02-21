@@ -6,6 +6,7 @@ In detail, rotwk-cleaner will delete all files in your %appdata% config director
 
 I'm not 💯 percent sure if that solves the problem, but we have had less problems with out of synchs since then.
 
+⚠️ Currently only works for installations with english language.
 
 ## How to use
 1. Download the latest executable from https://github.com/flobiwankenobi/rotwk-cleaner/releases
