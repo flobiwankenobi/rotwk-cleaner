@@ -15,3 +15,7 @@ I'm not 💯 percent sure if that solves the problem, but we have had less probl
 4. Press Yes if you get asked to clean up your rotwk directory
 5. Press OK to confirm
 6. Enjoy!
+
+## More reading stuff to increase the gaming experience
+* https://www.gamereplays.org/riseofthewitchking/portals.php?show=page&name=rotwk-202-lag-guide
+* https://www.gamereplays.org/community/index.php?showtopic=1004637&st=40&p=10084998&#entry10084998
